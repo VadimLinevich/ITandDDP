@@ -20,7 +20,7 @@ Figma: https://www.figma.com/proto/X0y2c7InKmojkVCHqapLC5/ManePage?page-id=0%3A1
   Filter games by genre.
 - Add review  
   Method — "POST"  
-  Params — userId ___number___, gameId ___number___, content __string__, grade ___number___, date __string__  
+  Params — userId ___number___, gameId ___number___, content __string__, grade ___number___,  
   Returns the result of the request.
 - Get reviews by date
   Method — "GET"  
