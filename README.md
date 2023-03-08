@@ -38,7 +38,7 @@ Info about user
 - email ___string___
 - password ___string___
 
-### game data
+### Game data
 Info about game
 - id ___number___
 - title ___string___
@@ -50,12 +50,12 @@ Info about game
 - rating ___string___
 - trailer ___string___
 
-### genre data
+### Genre data
 Info about game
 - id ___number___
 - name ___string___
 
-### review data
+### Review data
 Info about game
 - UserId ___number___
 - GameId ___number___
